@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    /* background-image: url(images/eslam.jfif); */
+    background-color:black;
+    /* background-repeat: no-repeat; */
+    /* background-position: top left; */
+    /* background-attachment: fixed; */
+    font-family: "Roboto", sans-serif;
+}
+    #profile{
+        width: 20px;
+        height: 90px;
+    }
+
+h1{
+    color: white;
+    text-align: center;
+}
+h2{
+    color: white;
+      text-align: center;
+}
+
+h3{
+    color: rgba(208, 145, 182, 0.829);
+    text-align: center;
+}
+
+#exper{
+    text-align: center;
+}
+
+#contats{
+    height: 1px; 
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+
+#contats a{  
+    text-align: center;
+    color: rgba(208, 145, 182, 0.829);
+    text-decoration: none; 
+}
+
+#tool{
+    text-align: center;
+}
+footer {
+    background-color: black;
+    padding: 200px;
+    text-align: center;
+    color: white;  
+  }
+
+#solomb{
+    text-align: center;
+
+
+}
+.profiles{
+
+/* display: flex; */
+/* align-items: flex-start; */
+ position: fixed;
+text-align:center;
+ display:block;
+ margin-right: 10px;
+ margin-bottom: 1px;
+ float:left;
+
+}
+.about{
+    display: flex;}
+.about h3{
+     height: 1px; 
+    width: 1000px;
+    margin: 350px;
+    /* flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: row; */
+} 
+
+.cv a{
+    height: 100px; 
+    color: rgba(208, 145, 182, 0.829);
+   
+}
+.headders{
+    display: flex;
+    justify-content: flex-end;  
+
+
+}
+.headders a{
+height: 10px;
+margin: 10px;
+font-size: 6px;
+text-decoration: none;  
+
+
+}
+.imagess{
+
+    display: flex;
+    justify-content: center; 
+}
+.imagess img{
+size: 20px;
+}
